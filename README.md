@@ -1,2 +1,2 @@
-# MoreViewTaskSwiftUi
+# static list SwiftUi
 
